@@ -1,7 +1,7 @@
 # Azure Integration Services - Ops Methodology
 
 ## Introduction
-This document explains how to design and operationalise Azure Integration Services (Logic Apps, Functions, Service Bus, Event Grid, API Management) in a way that balances governance, developer autonomy, and scalability. By separating infrastructure, application, and configuration concerns, you achieve **clear separation of concerns**—where shared infrastructure is centrally managed, domain teams focus on application logic, and secrets/config remain securely parameterized. This approach ensures **scalable governance, autonomous domain ownership**, and **robust DevOps** practices, paving the way for secure, reliable, and efficient collaboration across multiple teams.
+This document explains how to design and operate Azure Integration Services (Logic Apps, Functions, Service Bus, Event Grid, API Management) in a way that balances governance, developer autonomy, and scalability. By separating infrastructure, application, and configuration concerns, you achieve **clear separation of concerns**—where shared infrastructure is centrally managed, domain teams focus on application logic, and secrets/config remain securely parameterized. This approach ensures **scalable governance, autonomous domain ownership**, and **robust DevOps** practices, paving the way for secure, reliable, and efficient collaboration across multiple teams.
 
 [DevOps deployment for Standard logic apps in single-tenant Azure Logic Apps](https://learn.microsoft.com/en-us/azure/logic-apps/devops-deployment-single-tenant-azure-logic-apps#separate-concerns)
 
